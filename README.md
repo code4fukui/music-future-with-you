@@ -4,6 +4,8 @@
 
 - [楽曲データ flac](https://code4fukui.github.io/music-future-with-you/kimito-kagayaku-miraiheto_music.flac)
 - [楽曲データ mp3](https://code4fukui.github.io/music-future-with-you/kimito-kagayaku-miraiheto_music.mp3)
+- [メロディデータ mp3](https://code4fukui.github.io/music-future-with-you/kimito-kagayaku-miraiheto_melody.mid)
+- [メロディデータ mp3](https://code4fukui.github.io/music-future-with-you/kimito-kagayaku-miraiheto_melody.pdf)
 - [歌詞データ txt](https://code4fukui.github.io/music-future-with-you/kimito-kagayaku-miraiheto_lyrics.txt)
 - [歌詞データ pdf](https://code4fukui.github.io/music-future-with-you/kimito-kagayaku-miraiheto_lyrics.pdf)
 
